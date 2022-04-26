@@ -1,0 +1,17 @@
+
+.add-todo {
+   position: relative;
+   left: 64px;
+}
+.inputForm {
+    width: 152px;
+    height: 24px;
+    flex-grow: 0;
+    margin: 8px 194px 7px 3px;
+    font-family: Poppins;
+    border: none;
+}
+.add-button {
+    background-color: #0e1649;
+    color: #ffff;
+}

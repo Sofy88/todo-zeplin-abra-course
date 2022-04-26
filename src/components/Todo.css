@@ -1,0 +1,19 @@
+.completed {
+    text-decoration: line-through;
+    position: relative;
+    margin-left: 8px;
+    
+    
+}
+
+.deleteBtn {
+    color: #000;
+    background: #ffffff;
+    cursor: pointer;
+    margin-left: 8px;
+    
+}
+.deleteBtn:hover {
+    background: orange;
+    transition:0s;
+}
